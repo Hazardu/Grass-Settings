@@ -1,0 +1,6 @@
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\BetterSettings\Mod\BetterSettings.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\BetterSettings\Mod\BetterSettings.pdb
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\BetterSettings\obj\x86\Release\BetterSettings.csprojAssemblyReference.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\BetterSettings\obj\x86\Release\BetterSettings.csproj.CoreCompileInputs.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\BetterSettings\obj\x86\Release\BetterSettings.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\BetterSettings\obj\x86\Release\BetterSettings.pdb

@@ -1,0 +1,10 @@
+<Mod ID="BetterSettings">
+  <Compatible>1.11b</Compatible>
+  <Name>
+    <EN>Grass Settings</EN>
+  </Name>
+  <Description>
+    <EN>eat my grass</EN>
+  </Description>
+  <Version>1.1</Version>
+</Mod>
